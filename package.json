@@ -1,0 +1,28 @@
+{
+  "name": "swipe-swy",
+  "version": "1.2.2",
+  "description": "canvas擦除组件，支持手势操作，丰富的参数配置",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "canvas",
+    "swipe",
+    "touch"
+  ],
+  "author": "swy",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
